@@ -51,5 +51,5 @@
 
 ### 爬虫说明：
 ```
-	使用scrapy实现 ， 每一个网站对应scrapy爬虫中的一个spider ， 数据保存在Mysql数据库中
+	使用scrapy实现 ， 每一个网站对应scrapy爬虫中的一个spider ， 数据保存至Mysql数据库
 ```
